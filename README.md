@@ -1,2 +1,0 @@
-# birthday
-A Special day 
